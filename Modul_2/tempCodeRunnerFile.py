@@ -1,0 +1,1 @@
+r, t = map(float, input().split())
